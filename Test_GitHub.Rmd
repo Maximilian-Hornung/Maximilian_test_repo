@@ -1,0 +1,37 @@
+---
+title: "Test Github"
+author: "Ich"
+date: "2024-09-04"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+install.packages("ICRegress")
+library(ICRegress)
+
+
+
+b_results_test <- benchmarking(random_seed=101L,
+                               n_random_iterations=1,
+                               generations=c(1),
+                               solution_thresh = c( .01 ), 
+                               n_strands = c(50),
+                               real_models = c(5), 
+                               error_sd = c(.05), 
+                               n_IVs=c(8), 
+                               n_cases= 2000, #n rows in dataset
+                               test_set_model_closeness= c("residuals"),
+                               parallelize=F,
+                               detailed_plots_on=F,
+                               boxplots=F,
+                               starting_population=c(500),
+                               hold_back_cores=3,
+                               mutation_rate = .1,
+                               n_children = 2,
+                               nelitism=3,
+                               death_by_ageing=40, 
+                               target_training_percent = 95,
+                               generation_limit = 20, final_model_aggregation = T)
+```
+
+This is what I am working on here now

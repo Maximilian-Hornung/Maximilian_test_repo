@@ -1,0 +1,58 @@
+[1] "these parameters"
+                     seed               generations        solution threshold 
+                      "1"                       "1"                    "0.01" 
+                n strands               real models                     N ivs 
+                     "50"                       "5"                       "8" 
+                 error sd testset closeness setting 
+                   "0.05"               "residuals" 
+
+
+Calculating ideal tuning for your data and variable set. Part 1. N strands and threshold sizes.
+Starting value is  99.83 for a target between 40 and 55.
+Current solved to strand ratio is  1.247875
+New n_strands decreased to  37
+
+Calculating ideal tuning for your data and variable set. Part 1. N strands and threshold sizes.
+Starting value is  98.83 for a target between 40 and 55.
+Current solved to strand ratio is  2.671081
+New n_strands decreased to  17
+
+Calculating ideal tuning for your data and variable set. Part 1. N strands and threshold sizes.
+Starting value is  90.33 for a target between 40 and 55.
+Current solved to strand ratio is  5.313529
+New n_strands decreased to  10
+
+Calculating ideal tuning for your data and variable set. Part 1. N strands and threshold sizes.
+Starting value is  70.25 for a target between 40 and 55.
+Current solved to strand ratio is  7.025
+New solution_threshold decreased to  0.02496902
+
+Calculating ideal tuning for your data and variable set. Part 1. N strands and threshold sizes.
+Starting value is  52.67 for a target between 40 and 55.
+Current solved to strand ratio is  5.267
+Acceptable starting value found of 52.67
+Strands 10
+Solution threshold 0.02496902
+Starting population 5000
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 1 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 2 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 3 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 4 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 5 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 6 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 7 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 8 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 9 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 10 of 24
+
+Calculating ideal tuning for your data and variable set. Part 2. Mutations, N children, ageing, elitism. 11 of 24
